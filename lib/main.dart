@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Victor App'),
+          title: Text('Loggin Screen v1.0'),
         ),
         body: Container(
             decoration: BoxDecoration(
